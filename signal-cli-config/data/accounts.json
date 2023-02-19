@@ -1,0 +1,14 @@
+{
+  "accounts" : [ {
+    "path" : "842340",
+    "environment" : "LIVE",
+    "number" : "+250788336717",
+    "uuid" : null
+  }, {
+    "path" : "226370",
+    "environment" : "LIVE",
+    "number" : "+250783336717",
+    "uuid" : null
+  } ],
+  "version" : 2
+}
